@@ -1,0 +1,114 @@
+EPICK
+First-person photo of interacting with {c} in the kitchen
+    3.87461793587826
+First-person photo of interacting with {c}
+    4.152955713077974
+a first-person view photo of the person act with {c}
+    3.73
+people with {c}
+	3.35826233985823%
+people using {c}
+	4.52%
+{c}
+	4.09%
+a fisrt person view picture of people holding with {c}
+	2.94%
+a fisrt person picture of acting with {c}
+	3.43%
+person is using {c}
+	4.27%
+a fisrt person view picture of people interactiong with {c}
+	3.55%
+a photo of {c}
+	3.64%
+{c} is used by person
+	4.39%
+egocentric picture of {c}
+	3.11%
+a {c} among many things
+	4.22%
+First person picture of {c}
+	3.84%
+person is using {c}.
+	4.18%
+
+ver1
+image_template=[
+    'a fisrt person picture of acting with {}.',
+    'a photo of a nice {}.',
+    'A snapshot of {}.',
+    'A person posing with {}.',
+    'A selfie with {}.',
+    'An image of {}.',
+    'A picture of someone with {}.',
+    'An individual using {}.',
+    'A person holding {}.',
+    'A close-up of {}.',
+    'A shot of {}.',
+    'A person is holding {} in their hand.',
+    'A person is demonstrating how to use {}.',
+    'A person is showing off their {}.',
+    'A person is playing with {}.',
+    'A person is using {} to create something.',
+    'A person is interacting with {}.',
+    'A person is manipulating {}.',
+    'A person is demonstrating the features of {}.',
+    'A person is showing how to operate {}.',
+    'A person is using {} to do something.',
+    'a photo of one {}.',
+    'a photo of a nice {}.',
+    'a photo of one {}.',
+    'a painting of the {}.',
+    'a painting of a {}.',
+    'a photo of a clean {}.',
+    'a photo of a dirty {}.',
+    'a photo of a hard to see {}.',
+    'a low resolution photo of the {}.',
+    'a drawing of the {}.',
+    'a photo of a small {}.',
+    'a blurry photo of the {}.',
+    
+]
+ver1.
+	4.23%
+
+
+ver2
+image_template=[
+    'a fisrt person picture of acting with {}.',
+    'a photo of a nice {}.',
+    'A snapshot of {}.',
+    'An image of {}.',
+    'A picture of someone with {}.',
+    'A person holding {}.',
+    'A close-up of {}.',
+    'A shot of {}.',
+    'A person is holding {} in their hand.',
+    'A person is using {} to create something.',
+    'A person is interacting with {}.',
+    'A person is manipulating {}.',
+    'A person is showing how to operate {}.',
+    'A person is using {} to do something.',
+    'a photo of one {}.',
+    'a painting of a {}.',
+    'a photo of a hard to see {}.',
+    'a low resolution photo of the {}.',
+    'a drawing of the {}.',
+    'a photo of a small {}.',
+    'a blurry photo of the {}.',
+]
+	3.25%
+
+
+ver3
+image_template=[
+    'a fisrt person picture of acting with {}.',
+    'A picture of someone with {}.',
+    'A person holding {}.',
+    'A shot of {}.',
+    'A person is holding {} in their hand.',
+    'A person is using {} to create something.',
+    'A person is interacting with {}.',
+]
+person is using {c}.
+	2.86%

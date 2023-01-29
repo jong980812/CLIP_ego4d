@@ -1,0 +1,146 @@
+EGO4D
+First-person photo of interacting with {c}
+    8.72%
+a first-person view photo of the person act with {c}
+    9.5%
+people with {c}
+	6.96%
+people using {c}
+	7.78%
+{c}
+    6.12%
+a fisrt person view picture of people holding with {c}
+    8.24%
+a fisrt person picture of acting with {c}
+    9.08%
+person is using {c}
+	8.96%
+a fisrt person view picture of people interactiong with {c}
+    9.96%
+a photo of {c}
+    5.65%
+{c} is used by person
+	6.41%
+egocentric picture of {c}
+	5.86%
+a {c} among many things
+	7.66%
+First person picture of {c}
+	7.76%
+a fisrt person view picture of people interactiong with {c}.
+	10.53%
+
+ver 1
+image_template=[
+    'a fisrt person picture of acting with {}.',
+    'a photo of a nice {}.',
+    'A snapshot of {}.',
+    'A person posing with {}.',
+    'A selfie with {}.',
+    'An image of {}.',
+    'A picture of someone with {}.',
+    'An individual using {}.',
+    'A person holding {}.',
+    'A close-up of {}.',
+    'A shot of {}.',
+    'A person is holding {} in their hand.',
+    'A person is demonstrating how to use {}.',
+    'A person is showing off their {}.',
+    'A person is playing with {}.',
+    'A person is using {} to create something.',
+    'A person is interacting with {}.',
+    'A person is manipulating {}.',
+    'A person is demonstrating the features of {}.',
+    'A person is showing how to operate {}.',
+    'A person is using {} to do something.',
+    'a photo of one {}.',
+    'a photo of a nice {}.',
+    'a photo of one {}.',
+    'a painting of the {}.',
+    'a painting of a {}.',
+    'a photo of a clean {}.',
+    'a photo of a dirty {}.',
+    'a photo of a hard to see {}.',
+    'a low resolution photo of the {}.',
+    'a drawing of the {}.',
+    'a photo of a small {}.',
+    'a blurry photo of the {}.',
+    
+]
+Ver1_random choice
+	7.25%
+Ver1_random choice
+	6.08%
+Ver2_random choice
+	6.45%
+a fisrt person picture of acting with {c}.
+	8.75%
+
+ver3
+image_template=[
+    'a fisrt person picture of acting with {}.',
+    'A person is holding {} in their hand.',
+    'A person is playing with {}.',
+    'A person is interacting with {}.',
+    'A person is manipulating {}.',
+    'A person is using {} to do something.',
+    'a fisrt person view picture of people interactiong with {}.',
+    'a person is using {}.'
+]
+ver3
+	7.26%
+
+
+ver4
+image_template=[
+    'a fisrt person picture of acting with {}.',
+    # 'A person is holding {} in their hand.',
+    # 'A person is playing with {}.',
+    'A person is interacting with {}.',
+    # 'A person is manipulating {}.',
+    # 'A person is using {} to do something.',
+    'a fisrt person view picture of people interactiong with {}.',
+    'a person is using {}.'
+]
+ver4
+	8.04%
+
+ver5
+image_template=[
+    'a fisrt person picture of acting with {}.',
+    # 'A person is holding {} in their hand.',
+    # 'A person is playing with {}.',
+    # 'A person is interacting with {}.',
+    # 'A person is manipulating {}.',
+    # 'A person is using {} to do something.',
+    'a fisrt person view picture of people interactiong with {}.',
+    # 'a person is using {}.'
+]
+
+ver5
+	9.13%
+
+\
+ver6
+image_template=[
+    'A fisrt person picture of acting with {}.',
+    # 'A person is holding {} in their hand.',
+    # 'A person is playing with {}.',
+    # 'A person is interacting with {}.',
+    # 'A person is manipulating {}.',
+    # 'A person is using {} to do something.',
+    'A fisrt person view picture of people interactiong with {}.',
+    # 'a person is using {}.'
+    'A first person view of interacting with {}.',
+    'A first person view of someone interacting with {}.',
+    'A first person perspective of using {}.',
+    'An immersive view of someone engaging with {}.',
+    'A first person image of someone working with {}.',
+    'An up-close view of someone manipulating {}.',
+    'A first person shot of someone playing with {}.',
+    'A first person view of someone operating {}.',
+    'A first person image of someone utilizing {}.',
+    'An intimate view of someone utilizing {}.',
+    'A first person view of someone utilizing {}.',
+]
+	7.48%
